@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qMuitNjW0mg07pq-6-ZJ-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="500" y="40" width="80" height="80" as="geometry" />
+          <mxGeometry x="500" y="80" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qMuitNjW0mg07pq-6-ZJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qMuitNjW0mg07pq-6-ZJ-2" target="qMuitNjW0mg07pq-6-ZJ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qMuitNjW0mg07pq-6-ZJ-2" value="Initiating NFT purchase" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMuitNjW0mg07pq-6-ZJ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qMuitNjW0mg07pq-6-ZJ-4" target="qMuitNjW0mg07pq-6-ZJ-6">
           <mxGeometry relative="1" as="geometry" />
@@ -61,16 +61,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qMuitNjW0mg07pq-6-ZJ-10" value="Has enough funds been provided by user?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="440" width="80" height="80" as="geometry" />
+          <mxGeometry x="500" y="420" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qMuitNjW0mg07pq-6-ZJ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qMuitNjW0mg07pq-6-ZJ-12" target="qMuitNjW0mg07pq-6-ZJ-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qMuitNjW0mg07pq-6-ZJ-12" value="Error: Insufficient funds" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="285" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMuitNjW0mg07pq-6-ZJ-14" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="440" width="80" height="80" as="geometry" />
+          <mxGeometry x="140" y="420" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qMuitNjW0mg07pq-6-ZJ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qMuitNjW0mg07pq-6-ZJ-16" target="qMuitNjW0mg07pq-6-ZJ-18">
           <mxGeometry relative="1" as="geometry" />
@@ -89,57 +89,57 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qMuitNjW0mg07pq-6-ZJ-16" value="Is user the owner of the NFT?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="600" width="80" height="80" as="geometry" />
+          <mxGeometry x="500" y="580" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qMuitNjW0mg07pq-6-ZJ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qMuitNjW0mg07pq-6-ZJ-18" target="qMuitNjW0mg07pq-6-ZJ-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qMuitNjW0mg07pq-6-ZJ-18" value="Error: Cannot buy your own NFT" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="285" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMuitNjW0mg07pq-6-ZJ-20" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="600" width="80" height="80" as="geometry" />
+          <mxGeometry x="140" y="580" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qMuitNjW0mg07pq-6-ZJ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qMuitNjW0mg07pq-6-ZJ-22" target="qMuitNjW0mg07pq-6-ZJ-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qMuitNjW0mg07pq-6-ZJ-22" value="Transfer funds to seller" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMuitNjW0mg07pq-6-ZJ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qMuitNjW0mg07pq-6-ZJ-24" target="qMuitNjW0mg07pq-6-ZJ-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qMuitNjW0mg07pq-6-ZJ-24" value="Transfer ownership to user" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMuitNjW0mg07pq-6-ZJ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="qMuitNjW0mg07pq-6-ZJ-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="1020" as="sourcePoint" />
+            <mxPoint x="540" y="930" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qMuitNjW0mg07pq-6-ZJ-26" value="Remove NFT from seller&#39;s owned list" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="990" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMuitNjW0mg07pq-6-ZJ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qMuitNjW0mg07pq-6-ZJ-28" target="qMuitNjW0mg07pq-6-ZJ-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qMuitNjW0mg07pq-6-ZJ-28" value="Add NFT to user&#39;s owned list" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1110" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMuitNjW0mg07pq-6-ZJ-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qMuitNjW0mg07pq-6-ZJ-30" target="qMuitNjW0mg07pq-6-ZJ-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qMuitNjW0mg07pq-6-ZJ-30" value="Mark NFT as Not for sale" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1230" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMuitNjW0mg07pq-6-ZJ-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qMuitNjW0mg07pq-6-ZJ-32" target="qMuitNjW0mg07pq-6-ZJ-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qMuitNjW0mg07pq-6-ZJ-32" value="Emit NFTBought Event" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1350" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMuitNjW0mg07pq-6-ZJ-34" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1470" width="80" height="80" as="geometry" />
+          <mxGeometry x="500" y="1260" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
