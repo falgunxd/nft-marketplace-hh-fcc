@@ -1,9 +1,122 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
   <diagram name="Page-1" id="vUks2vyu5pzqkIqCu0ve">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lIXlZZX4CLXE8D_4S1lc-1" target="lIXlZZX4CLXE8D_4S1lc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lIXlZZX4CLXE8D_4S1lc-2" target="lIXlZZX4CLXE8D_4S1lc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-2" value="List NFT" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lIXlZZX4CLXE8D_4S1lc-4" target="lIXlZZX4CLXE8D_4S1lc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-4" value="Token ID &amp;amp; Price" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-11" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lIXlZZX4CLXE8D_4S1lc-8" target="lIXlZZX4CLXE8D_4S1lc-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lIXlZZX4CLXE8D_4S1lc-8" target="lIXlZZX4CLXE8D_4S1lc-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-21" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lIXlZZX4CLXE8D_4S1lc-15">
+          <mxGeometry x="-0.1" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-8" value="Is user the owner of NFT?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lIXlZZX4CLXE8D_4S1lc-10" target="lIXlZZX4CLXE8D_4S1lc-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-10" value="Error: Not the owner" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-12" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lIXlZZX4CLXE8D_4S1lc-14" target="lIXlZZX4CLXE8D_4S1lc-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-18" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lIXlZZX4CLXE8D_4S1lc-17">
+          <mxGeometry x="-0.3667" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lIXlZZX4CLXE8D_4S1lc-14" target="lIXlZZX4CLXE8D_4S1lc-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-24" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lIXlZZX4CLXE8D_4S1lc-23">
+          <mxGeometry x="-0.25" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-14" value="Is price valid?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="510" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lIXlZZX4CLXE8D_4S1lc-16" target="lIXlZZX4CLXE8D_4S1lc-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-16" value="Error: Price must be valid" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-19" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="510" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lIXlZZX4CLXE8D_4S1lc-22" target="lIXlZZX4CLXE8D_4S1lc-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-29" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lIXlZZX4CLXE8D_4S1lc-26">
+          <mxGeometry x="-0.3" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lIXlZZX4CLXE8D_4S1lc-22" target="lIXlZZX4CLXE8D_4S1lc-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-22" value="Is the NFT already listed?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="630" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lIXlZZX4CLXE8D_4S1lc-25" target="lIXlZZX4CLXE8D_4S1lc-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-25" value="Error: NFT is already listed" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-27" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="630" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lIXlZZX4CLXE8D_4S1lc-30" target="lIXlZZX4CLXE8D_4S1lc-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-30" value="Mark NFT for sale" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lIXlZZX4CLXE8D_4S1lc-32" target="lIXlZZX4CLXE8D_4S1lc-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-32" value="Store Price of NFT" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lIXlZZX4CLXE8D_4S1lc-34" target="lIXlZZX4CLXE8D_4S1lc-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-34" value="Emit NFTListed Event" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lIXlZZX4CLXE8D_4S1lc-36" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1050" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
